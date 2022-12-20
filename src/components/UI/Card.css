@@ -1,0 +1,12 @@
+.card {
+    box-shadow: 1px 1px 10px black;
+    border: 1px solid black;
+    border-radius: 10px;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: olive;
+    color: white;
+  }
+  
